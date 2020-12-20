@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "username": "ANONYMOUS",
+    "password": "",
+    "permissions": {
+      "MANAGE_USER": false,
+      "MANAGE_ITEM": false,
+      "MANAGE_CASH": false
+    },
+    "type": "ANONYMOUS",
+    "shoppingHistory": [],
+    "shoppingCart": {
+      "shoppingList": {},
+      "status": "UNPAID",
+      "totalPrice": 0.0,
+      "paidAmount": 0.0,
+      "change": 0.0,
+      "userId": 0
+    }
+  },
+  {
+    "id": 1,
+    "username": "alan",
+    "password": "123",
+    "permissions": {
+      "MANAGE_USER": false,
+      "MANAGE_ITEM": false,
+      "MANAGE_CASH": false
+    },
+    "type": "CUSTOMER",
+    "shoppingHistory": [],
+    "shoppingCart": {
+      "shoppingList": {},
+      "status": "UNPAID",
+      "totalPrice": 0.0,
+      "paidAmount": 0.0,
+      "change": 0.0,
+      "userId": 1
+    }
+  },
+  {
+    "id": 2,
+    "username": "blan",
+    "password": "123",
+    "permissions": {
+      "MANAGE_USER": true,
+      "MANAGE_ITEM": true,
+      "MANAGE_CASH": true
+    },
+    "type": "OWNER",
+    "shoppingHistory": [],
+    "shoppingCart": {
+      "shoppingList": {},
+      "status": "UNPAID",
+      "totalPrice": 0.0,
+      "paidAmount": 0.0,
+      "change": 0.0,
+      "userId": 2
+    }
+  }
+]

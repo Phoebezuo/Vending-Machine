@@ -1,0 +1,146 @@
+{
+ "1": {
+  "id": 1,
+  "category": "DRINK",
+  "name": "Mineral Water",
+  "price": 1.0,
+  "code": "1",
+  "stock": 7,
+  "sold": 0
+ },
+ "2": {
+  "id": 2,
+  "category": "DRINK",
+  "name": "Sprite",
+  "price": 2.0,
+  "code": "2",
+  "stock": 7,
+  "sold": 0
+ },
+ "3": {
+  "id": 3,
+  "category": "DRINK",
+  "name": "Coca cola",
+  "price": 3.0,
+  "code": "3",
+  "stock": 7,
+  "sold": 0
+ },
+ "4": {
+  "id": 4,
+  "category": "DRINK",
+  "name": "Pepsi",
+  "price": 2.0,
+  "code": "4",
+  "stock": 7,
+  "sold": 0
+ },
+ "5": {
+  "id": 5,
+  "category": "DRINK",
+  "name": "Juice",
+  "price": 3.0,
+  "code": "5",
+  "stock": 7,
+  "sold": 0
+ },
+ "6": {
+  "id": 6,
+  "category": "CHOCOLATE",
+  "name": "Mars",
+  "price": 1.0,
+  "code": "6",
+  "stock": 7,
+  "sold": 0
+ },
+ "7": {
+  "id": 7,
+  "category": "CHOCOLATE",
+  "name": "M\u0026M",
+  "price": 2.0,
+  "code": "7",
+  "stock": 7,
+  "sold": 0
+ },
+ "8": {
+  "id": 8,
+  "category": "CHOCOLATE",
+  "name": "Bounty",
+  "price": 3.0,
+  "code": "8",
+  "stock": 7,
+  "sold": 0
+ },
+ "9": {
+  "id": 9,
+  "category": "CHOCOLATE",
+  "name": "Snickers",
+  "price": 4.0,
+  "code": "9",
+  "stock": 7,
+  "sold": 0
+ },
+ "10": {
+  "id": 10,
+  "category": "CHIP",
+  "name": "Smiths",
+  "price": 1.0,
+  "code": "10",
+  "stock": 7,
+  "sold": 0
+ },
+ "11": {
+  "id": 11,
+  "category": "CHIP",
+  "name": "Pringles",
+  "price": 3.0,
+  "code": "11",
+  "stock": 7,
+  "sold": 0
+ },
+ "12": {
+  "id": 12,
+  "category": "CHIP",
+  "name": "Kettle",
+  "price": 5.0,
+  "code": "12",
+  "stock": 7,
+  "sold": 0
+ },
+ "13": {
+  "id": 13,
+  "category": "CHIP",
+  "name": "Thins",
+  "price": 2.0,
+  "code": "13",
+  "stock": 7,
+  "sold": 0
+ },
+ "14": {
+  "id": 14,
+  "category": "CANDY",
+  "name": "Mentos",
+  "price": 1.0,
+  "code": "14",
+  "stock": 7,
+  "sold": 0
+ },
+ "15": {
+  "id": 15,
+  "category": "CANDY",
+  "name": "Sour Patch",
+  "price": 3.0,
+  "code": "15",
+  "stock": 7,
+  "sold": 0
+ },
+ "16": {
+  "id": 16,
+  "category": "CANDY",
+  "name": "Skittles",
+  "price": 2.0,
+  "code": "16",
+  "stock": 7,
+  "sold": 0
+ }
+}
